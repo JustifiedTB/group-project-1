@@ -62,7 +62,8 @@ errors, data visualizations, and generating code snippets.
 ## Challenges
 
 - Examining Data Sources:
-    - Surveys, Weighted Data
+    - Understanding Surveys, Weighted Data
+    - From where is our source sourced?
 - Data Cleaning:
     - Missing Values
     - Each Country not in every dataset
@@ -80,6 +81,12 @@ errors, data visualizations, and generating code snippets.
 
 We primarily compared two datasets: the World Happiness Report 2023 and the 2023 Global Country Development & Prosperity Index.
 We evaluated selected countries to compare their rankings across these datasets, assessing consistency in how nations were rated.
+
+The World Happiness Report uses a combination of surveys from the Gallup World Poll as well as statistics from the World Development
+Indicators and World Health Organization.
+
+The 2023 Global Country Development & Prosperity Index, produced by the Legatum Institute, uses "67 discrete policy focused elements"
+which are a combination of expert surveys, various international reporting sources and databases, including the Gallup poll.
 
 - Health Metrics Deep Dive:
 
