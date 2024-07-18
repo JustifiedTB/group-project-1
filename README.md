@@ -77,7 +77,7 @@ errors, data visualizations, and generating code snippets.
 
 ## Analysis and Findings
 
-- Dataset Comparison:
+### Dataset Comparison:
 
 We primarily compared two datasets: the World Happiness Report 2023 and the 2023 Global Country Development & Prosperity Index.
 We evaluated selected countries to compare their rankings across these datasets, assessing consistency in how nations were rated.
@@ -88,21 +88,21 @@ Indicators and World Health Organization.
 The 2023 Global Country Development & Prosperity Index, produced by the Legatum Institute, uses "67 discrete policy focused elements"
 which are a combination of expert surveys, various international reporting sources and databases, including the Gallup poll.
 
-- Health Metrics Deep Dive:
+### Health Metrics Deep Dive:
 
 We focused on health-related columns from both primary datasets, noting that they were based on different underlying data.
 To expand our analysis, we incorporated two additional datasets: the Global Country Information Dataset 2023 and the World Hospital Rankings 2023.
 
-- Correlation Analysis:
+### Correlation Analysis:
 
 Using all four datasets, we investigated potential correlations between various health statistics and the health indexes from our primary datasets.
 We discovered significant correlations among several factors, including:
 
-Infant Mortality Rate
-Maternal Mortality Rate
-Physicians per Thousand (Population)
+- Infant Mortality Rate
+- Maternal Mortality Rate
+- Physicians per Thousand (Population)
 
-- Broader Implications:
+### Broader Implications:
 
 Our analysis revealed that these health-related factors not only correlated with each other but also showed strong correlations with:
 
