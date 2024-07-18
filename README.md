@@ -17,11 +17,15 @@
 This project is our Group Project 1 for OSU Bootcamp. 
 
 ## Project Overview
-Explore various global country performance metrics and information
-Merge multiple datasets by country to compare & contrast different aspects of well-being
-Focus on how healthcare impacts quality of life around the world
-Investigate specific factors of healthcare access and how it impacts lives globally
-Can this information be used to inform governmental policy?
+- Explore various global country performance metrics and information.
+- Examine multiple datasets by country to compare & contrast different aspects of well-being.
+- Investigate specific factors of healthcare and how it impacts lives globally
+### Questions
+- Can this data be used to inform governmental policy? 
+- Do assessments on a popoulation survey-based dataset agree with expert surveys and empirical data? 
+- Are there correlative relationships between health related statistics?
+- Are there correlative relationships between health and happiness?
+
 
 ## Data Sources
 
@@ -49,7 +53,8 @@ Note: Users of this project are advised to refer to the original sources for the
 
 ## Technologies Used
 Most of the work was done with Jupyter Notebooks or Google Colab using Python with libraries: Pandas, Matplotlib,
-Numpy, Scipy, and Seaborn.
+Numpy, Scipy, and Seaborn. AI tools (Claude, ChatGPT, and Bootcamp Xpert Assistant) were used for troubleshooting
+errors, data visualizations, and generating code snippets.  
 
 ## Setup and Installation
 
@@ -79,19 +84,19 @@ For Google Colab users:
 
 Remember to adjust any file paths in the notebook if you're using Google Colab.
 
-## Challenges and Solutions
-- Examining Data Sources
-    Surveys, Weighted Data
-- Data Cleaning
-    Missing Values
-    Each Country not in every dataset
-    Normalizing Values
-    "\xa0" - a non-breaking space in Unicode
-- Data Integration
-    Combining Datasets
-- Visualization Complexity
-    Exploring visualization techniques outside of class
-    Customizing for clarity
+## Challenges
+- Examining Data Sources:
+    - Surveys, Weighted Data
+- Data Cleaning:
+    - Missing Values
+    - Each Country not in every dataset
+    - Normalizing Values
+    - "\xa0" - a non-breaking space in Unicode
+- Data Integration:
+    - Combining Datasets
+- Visualization Complexity:
+    - Exploring visualization techniques outside of class
+    - Customizing for clarity
 
 ## Analysis and Findings
 [Summary of your main analytical approaches and key findings]
