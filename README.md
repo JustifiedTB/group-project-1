@@ -21,7 +21,7 @@ Explore various global country performance metrics and information
 Merge multiple datasets by country to compare & contrast different aspects of well-being
 Focus on how healthcare impacts quality of life around the world
 Investigate specific factors of healthcare access and how it impacts lives globally
-
+Can this information be used to inform governmental policy?
 
 ## Data Sources
 
@@ -80,12 +80,18 @@ For Google Colab users:
 Remember to adjust any file paths in the notebook if you're using Google Colab.
 
 ## Challenges and Solutions
+- Examining Data Sources
+    Surveys, Weighted Data
 - Data Cleaning
     Missing Values
     Each Country not in every dataset
     Normalizing Values
+    "\xa0" - a non-breaking space in Unicode
 - Data Integration
+    Combining Datasets
 - Visualization Complexity
+    Exploring visualization techniques outside of class
+    Customizing for clarity
 
 ## Analysis and Findings
 [Summary of your main analytical approaches and key findings]
