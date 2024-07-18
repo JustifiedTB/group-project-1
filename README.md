@@ -59,34 +59,6 @@ Most of the work was done with Jupyter Notebooks or Google Colab using Python wi
 Numpy, Scipy, and Seaborn. AI tools (Claude, ChatGPT, and Bootcamp Xpert Assistant) were used for troubleshooting
 errors, data visualizations, and generating code snippets.  
 
-## Setup and Installation
-
-To run this project, you'll need Python and several libraries. Follow these steps to set up your environment:
-
-1. Ensure you have Python 3.7+ installed on your system.
-2. Clone this repository to your local machine.
-3. Navigate to the project directory in your terminal.
-4. Create a virtual environment (optional but recommended):
-5. Install the required packages: pip install pandas matplotlib numpy scipy seaborn jupyter
-
-## Usage
-
-To explore our analysis:
-
-1. Navigate to the project directory in your terminal.
-2. Launch Jupyter Notebook:
-3. Open the main analysis notebook: `main_analysis.ipynb`
-4. Run the cells in order to reproduce our analysis and visualizations.
-
-Note: Ensure you have the dataset files in the correct directory as specified in the notebook.
-
-For Google Colab users:
-1. Open Google Colab (colab.research.google.com)
-2. File > Open Notebook > GitHub
-3. Paste the URL of this repository and select the main notebook
-
-Remember to adjust any file paths in the notebook if you're using Google Colab.
-
 ## Challenges
 
 - Examining Data Sources:
@@ -169,6 +141,34 @@ How might we design studies to more definitively link health outcomes with happi
 
 How do these relationships vary across different regions or cultures?
 Are there specific cultural or socioeconomic factors that significantly influence these correlations?
+
+## Setup and Installation
+
+To run this project, you'll need Python and several libraries. Follow these steps to set up your environment:
+
+1. Ensure you have Python 3.7+ installed on your system.
+2. Clone this repository to your local machine.
+3. Navigate to the project directory in your terminal.
+4. Create a virtual environment (optional but recommended):
+5. Install the required packages: pip install pandas matplotlib numpy scipy seaborn jupyter
+
+## Usage
+
+To explore our analysis:
+
+1. Navigate to the project directory in your terminal.
+2. Launch Jupyter Notebook:
+3. Open the main analysis notebook: `main_analysis.ipynb`
+4. Run the cells in order to reproduce our analysis and visualizations.
+
+Note: Ensure you have the dataset files in the correct directory as specified in the notebook.
+
+For Google Colab users:
+1. Open Google Colab (colab.research.google.com)
+2. File > Open Notebook > GitHub
+3. Paste the URL of this repository and select the main notebook
+
+Remember to adjust any file paths in the notebook if you're using Google Colab.
 
 ## Contributors
 
