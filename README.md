@@ -157,7 +157,7 @@ To run this project, you'll need Python and several libraries. Follow these step
 2. Clone this repository to your local machine.
 3. Navigate to the project directory in your terminal.
 4. Create a virtual environment (optional but recommended):
-5. Install the required packages: pip install pandas matplotlib numpy scipy seaborn jupyter
+5. Install the required packages: pandas matplotlib numpy scipy seaborn jupyter
 
 ## Usage
 
