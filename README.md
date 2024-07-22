@@ -110,7 +110,14 @@ Overall Happiness scores from the World Happiness Report
 Overall Prosperity scores from the Global Country Development & Prosperity Index
 
 ## Visualizations
-[Description and examples of key visualizations created during the project]
+
+The following are some of the data visualizations we created:
+
+![Score Differences Between Happiness and Prosperity Ranks](Plots/rank_comparison_plot_top20.png)
+
+![Ladder Score vs Log Infant Mortality](Plots/Screenshot 2024-07-17 201812.png)
+
+![Infant Mortality vs Physicians per Thousand](Plots/image (1).png)
 
 ## Future Questions
 
@@ -165,7 +172,7 @@ To explore our analysis:
 
 1. Navigate to the project directory in your terminal.
 2. Launch Jupyter Notebook:
-3. Open the main analysis notebook: `main_analysis.ipynb`
+3. Open the notebooks
 4. Run the cells in order to reproduce our analysis and visualizations.
 
 Note: Ensure you have the dataset files in the correct directory as specified in the notebook.
