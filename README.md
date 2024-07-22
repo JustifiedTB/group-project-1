@@ -115,9 +115,9 @@ The following are some of the data visualizations we created:
 
 ![Score Differences Between Happiness and Prosperity Ranks](Plots/rank_comparison_plot_top20.png)
 
-![Ladder Score vs Log Infant Mortality](Plots/Screenshot 2024-07-17 201812.png)
+![Ladder Score vs Log Infant Mortality](Plots/InfMortPlot.png)
 
-![Infant Mortality vs Physicians per Thousand](Plots/image (1).png)
+![Infant Mortality vs Physicians per Thousand](Plots/InfMortPlot2.png)
 
 ## Future Questions
 
